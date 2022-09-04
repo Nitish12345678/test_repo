@@ -2,9 +2,9 @@ let a = 10;
 
 if(a%2==0)
 {
-    console.log("EVEN");
+    console.log("EVEN number");
 }
 else
 {
-    console.log("ODD");
+    console.log("ODD number");
 }

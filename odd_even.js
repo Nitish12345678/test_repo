@@ -1,10 +1,10 @@
 let a = 10;
 
-if(a%5==0)
+if(a%2==0)
 {
-    console.log("ODD");
+    console.log("EVEN");
 }
 else
 {
-    console.log("EVEN");
+    console.log("ODD");
 }

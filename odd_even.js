@@ -8,3 +8,4 @@ else
 {
     console.log("ODD number");
 }
+console.log("Done");
